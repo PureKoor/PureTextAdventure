@@ -1,2 +1,2 @@
 # PureTextAdventure
-https://purekoor.github.io/index.html
+https://purekoor.github.io/PureTextAdventure/index.html
